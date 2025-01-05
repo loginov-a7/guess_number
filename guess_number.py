@@ -1,6 +1,7 @@
 from random import randint
 
 
+# Add comment
 is_guess = False #
 number = randint(1,100)
 

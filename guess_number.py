@@ -1,7 +1,7 @@
 from random import randint
 
 
-is_guess = False
+is_guess = False #
 number = randint(1,100)
 
 def main():
